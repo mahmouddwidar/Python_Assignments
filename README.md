@@ -1,2 +1,2 @@
 # Python_Assignments
-Elzero Org Assignments
+Elzero Python Course Assignments
